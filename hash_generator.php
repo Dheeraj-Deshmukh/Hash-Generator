@@ -4,6 +4,8 @@ Created by    : Dheeraj Deshmukh
 last modified : 21 sept 2020
 Php version   : 7.4.10
 OS			  : Centos 7 
+
+note :- download hck5.jpg and hashgen.jpg for proper interface ...available in this repository
 -->
 
 <!DOCTYPE html>
