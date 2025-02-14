@@ -1,3 +1,1 @@
-<script> 
-  alert("Cross Domain") 
-  </script>
+<script>alert("Cross Domain")</script>
